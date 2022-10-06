@@ -17,6 +17,7 @@
 * [배열을 복사하는 3가지 방법 (arraycopy, copyOf, clone)](https://yinq.tistory.com/67?category=1078204)
 * [static import 문으로 코드를 간결하게](https://yinq.tistory.com/71?category=1078204)
 * [Comparator 와 Comparable에 대해 이해하기](https://yinq.tistory.com/104?category=1078204)
+* [프로젝트 경로 내 텍스트 파일 읽기 (BufferedReader , FileReader)](https://yinq.tistory.com/117)
 
 ---
 ## Spring
