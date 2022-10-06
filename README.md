@@ -26,6 +26,7 @@
 * [cmd를 이용해서 localhost 종료하기](https://yinq.tistory.com/77?category=1082315)
 * [@Controller 와 @GetMapping을 이용해서 html파일 띄우기](https://yinq.tistory.com/80?category=1082315)
 * [회원 관리 예제 내용 이해하기 (Getter and Setter / Optional.ofNullable / Assertions / AfterEach / assertThrows)](https://yinq.tistory.com/87?category=1082315)
+* [Assertions 의 isEqualTo 와 isSameAs 차이점 분석](https://yinq.tistory.com/119)
 
 ---
 ## Git
