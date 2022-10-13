@@ -28,6 +28,7 @@
 * [회원 관리 예제 내용 이해하기 (Getter and Setter / Optional.ofNullable / Assertions / AfterEach / assertThrows)](https://yinq.tistory.com/87?category=1082315)
 * [Assertions 의 isEqualTo 와 isSameAs 차이점 분석](https://yinq.tistory.com/119)
 * [스프링 빈 컨테이너(Bean Container)의 원리 (@Configuration , @Bean)](https://yinq.tistory.com/124)
+* [싱글톤 방식과 컴포넌트 스캔 (Singleton, @ComponentScan, @AutoWired, @RequiredArgsConstructor, @Primary)](https://yinq.tistory.com/139)
 
 ---
 ## Git
