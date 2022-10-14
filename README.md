@@ -41,3 +41,7 @@
 ## DataBase
 * [릴레이션의 구성 요소 · 키의 특징과 종류](https://yinq.tistory.com/107?category=1087791)
 * [데이터 무결성(integrity) 조건과 ERD(Entity Relationship Diagram)](https://yinq.tistory.com/111?category=1087791)
+
+---
+## HTTP
+* [IP · TCP · UDP 에 대한 기초 지식](https://yinq.tistory.com/141)
