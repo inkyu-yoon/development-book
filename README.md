@@ -52,7 +52,7 @@
 
 ---
 
-### [Real MySql 8.0 1권](https://www.yes24.com/Product/Goods/105536167)
+### [Real MySql 8.0 1권](https://github.com/inkyu-yoon/development-book/blob/main/real-mysql/%EC%A0%95%EB%A6%AC.md)
 
 <div align = "center">
    <a href="https://www.yes24.com/Product/Goods/105536167">
